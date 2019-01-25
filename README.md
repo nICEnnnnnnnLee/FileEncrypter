@@ -4,6 +4,7 @@
 ## 目录
 * [加密原理](#加密原理)
 * [使用方法](#使用方法)
+* [其它](#其它)
 
 ## 加密原理
 * 因为对文件或者其他数据流操作时一般都是以字节为单位进行的，为简单起见，研究的是逐字节加密的方法。  
@@ -193,6 +194,7 @@ buReader.close();
 
 * 最后，提供了一个UI界面示例，双击jar文件或者bat文件运行均可:  
 [Encrypter.jar](https://raw.githubusercontent.com/nICEnnnnnnnLee/FileEncrypter/master/release/Encrypter.jar)  
+[Encrypter.jar](https://raw.githubusercontent.com/nICEnnnnnnnLee/FileEncrypter/master/release/ui-run.bat)  
 ![](https://raw.githubusercontent.com/nICEnnnnnnnLee/FileEncrypter/master/release/sample.png)
 
 ## 其它
