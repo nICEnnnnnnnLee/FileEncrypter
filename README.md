@@ -194,7 +194,7 @@ buReader.close();
 
 * 最后，提供了一个UI界面示例，双击jar文件或者bat文件运行均可:  
 [Encrypter.jar](https://raw.githubusercontent.com/nICEnnnnnnnLee/FileEncrypter/master/release/Encrypter.jar)  
-[Encrypter.jar](https://raw.githubusercontent.com/nICEnnnnnnnLee/FileEncrypter/master/release/ui-run.bat)  
+[ui-run.bat](https://raw.githubusercontent.com/nICEnnnnnnnLee/FileEncrypter/master/release/ui-run.bat)  
 ![](https://raw.githubusercontent.com/nICEnnnnnnnLee/FileEncrypter/master/release/sample.png)
 
 ## 其它
